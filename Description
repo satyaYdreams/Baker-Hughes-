@@ -1,0 +1,12 @@
+This is a data challenge at Baker Hughes (BH)! As we dive into our gas turbine engine data, we're embarking on a journey to 
+uncover valuable insights that will drive us towards a sustainable energy future. 
+With Power BI as our tool of choice, we'll leverage its capabilities to analyze, visualize, and communicate our findings effectively.
+Let's harness the power of data to make informed decisions and propel our mission forward. Together, we can shape a cleaner, greener, 
+and more efficient world. Let the challenge begin! 
+
+The excel files feeding this analysis were made from 213 data files preprocessed in Python and we created some metric columns using DAX functions.
+
+Detailed description of the tasks and data sources are available here:
+
+https://2022.tamudatathon.com/challenges/docs/baker_hughes1
+
